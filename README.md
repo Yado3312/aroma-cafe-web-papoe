@@ -24,3 +24,9 @@ Sitio web de la cafetería **Aroma Café**, desarrollado como práctica de Git y
 ## Autor
 
 - Yadier Arturo Gonzalez Flores
+
+## Contacto
+
+- Dirección: Calle Ejemplo 123, Chihuahua, Chih.
+- Horario: Lunes a domingo, 8:00 a 20:00
+- Correo: contacto@aromacafe.example
